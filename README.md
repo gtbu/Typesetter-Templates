@@ -1,1 +1,1 @@
-# Typesetter-Templates
+# My Typesetter-Templates ( MIT )
