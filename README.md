@@ -1,1 +1,1 @@
-# My Typesetter-Templates ( MIT )
+# My Typesetter-Templates - for installation under /themmes
