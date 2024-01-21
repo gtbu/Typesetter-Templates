@@ -1,1 +1,1 @@
-# My Typesetter-Themes - for installation under /themmes
+# My Typesetter-Themes - for installation under /themes
